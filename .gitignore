@@ -141,7 +141,7 @@ runs
 /examples/**/*.args
 
 # data
-/data
+
 serialization_dir
 
 # emacs
@@ -156,3 +156,6 @@ tags
 
 # job runs
 *.out
+
+.env
+*.tar.gz
